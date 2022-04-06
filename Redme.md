@@ -1,6 +1,8 @@
 >>Isso aqui é minha primeira landing page
 >>Vou tentar fazer o mais rapido possivel e vou anotar tudo aqui sobre pontos importantes
 
+>> Sempre começar primeiro com o HTML e separando as tags iniciais para depois somente preencher com conteudos
+
 
 <meta charset="UTF-8"> >> indica os caracteres do codigo
 
@@ -11,3 +13,7 @@
 <header>Cabeçalho, melhor que usar div</header>
 <main>Parte principal da pagina</main>
 <footer>Rodapé da pagina</footer>
+
+<nav>Menu de navegação </nav>
+
+<section>Criar uma sessão dentro das divisões</section>
